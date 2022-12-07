@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreiDuD
-- 👀 I’m interested in Web Development & Data Science & Game Development
-- 🌱 I’m currently learning Python / Javascript / React / C#
+- 👀 I’m interested in Web Development & Data Science
+- 🌱 I’m currently learning Python / Javascript / React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
